@@ -1,1 +1,2 @@
-// Write your code here!
+const textElement = document.createElement('div');
+document.body.append(textElement);
